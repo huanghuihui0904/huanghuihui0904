@@ -1,9 +1,5 @@
 ### Hi there 👋
-YeeTone Wang is an undergraduate student at the Department of [CSE](http://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), 
-whose supervisor is [Prof. Yepang LIU](https://yepangliu.github.io/).
-He is a member of [SUSTech Software Quality Lab(SQLab)](https://sqlab-sustech.github.io/index.html).
-His research is mainly focus on Software Engineering and Automated Testing.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeetone&label=Profile%20views&color=0e75b6&style=flat" alt="yeetone" /> </p>
+Huihui Huang is an undergraduate student at the Department of [CSE](http://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/).
 
 <!-- 🔭 I’m currently working on **WASM VM vulnerability** -->
 

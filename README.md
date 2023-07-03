@@ -3,7 +3,7 @@ Huihui Huang is an undergraduate student at the Department of [CSE](http://cse.s
 
 <!-- 🔭 I’m currently working on **WASM VM vulnerability** -->
 
-- 🌱 This is my [homepage](https://huihuihuang.top/) !
+- 🌱 Welcome to my [homepage](https://huihuihuang.top/) !
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/huanghuihui0904?tab=repositories)
 

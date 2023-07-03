@@ -3,9 +3,9 @@ Huihui Huang is an undergraduate student at the Department of [CSE](http://cse.s
 
 <!-- 🔭 I’m currently working on **WASM VM vulnerability** -->
 
-- 🌱 I’m currently researching on BCSD.
+- 🌱 This is my [homepage](https://huihuihuang.top/)!
 
-- 👨‍💻 All of my projects are available at [https://github.com/huanghuiui0904?tab=repositories](https://github.com/huanghuihui0904?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/huanghuihui0904?tab=repositories)
 
 <!-- 📝 I regularly write articles on [https://www.zhihu.com/people/YeeTone_WANG](https://www.zhihu.com/people/YeeTone_WANG) -->
 

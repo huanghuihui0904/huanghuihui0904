@@ -1,17 +1,11 @@
 ### Hi there 👋
-Huihui Huang is an undergraduate student at the Department of [CSE](http://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/).
 
-<!-- 🔭 I’m currently working on **WASM VM vulnerability** -->
+I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Computer Science at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html). 
 
-- 🌱 Welcome to my [homepage](https://huihuihuang.top/) !
+I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/huanghuihui0904?tab=repositories)
+In Fall 2024, I will begin my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/), and I am excited to work with Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
 
-<!-- 📝 I regularly write articles on [https://www.zhihu.com/people/YeeTone_WANG](https://www.zhihu.com/people/YeeTone_WANG) -->
-
-- 📫 How to reach me **huanghh2020@mail.sustech.edu.cn**
-
-<!-- ⚡ This is my first website: **CS102A@SUSTech@Java http://sustechcs102a.xyz/** -->
 
 
 

@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+<!-- 
 I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Computer Science at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html). 
 
 I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
 In Fall 2024, I will begin my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/), and I am excited to work with Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
+-->
+
+I am **Huihui Huang** (黄慧惠), a first-year PhD student in the Software Analytics Research ([SOAR](https://soarsmu.github.io/team/)) group at the Singapore Management University (SMU), fortunate to be advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). Before starting my PhD, I completed my Bachelor's degree at Southern University of Science and Technology (SUSTech), where I was mentored by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). I also served as a research intern under [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at the National University of Singapore (NUS).
 
 
 
